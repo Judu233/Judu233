@@ -32,37 +32,22 @@
 <!-- 正文部分 -->
 #  🙋 Hey! Nice to see you.
 
-<table>
-<tr><td>
+<br />
 
 <!-- About me 关于我 -->
-### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+## 🤺 About Me
 <p>&emsp;&emsp;大家好，我是小张同学，热爱编程、读书、旅行，喜欢IT，希望成为一名优秀的开发者，为世界做出贡献微笑( •̀ ω •́ )✧</p>
 
-</td></tr>
-
-
-<tr><td>
+<br />
 
 <!-- 近期博客 -->
-### 📃 Recent Blog
-  
+## 📃 Recent Blog
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
-<!-- START_SECTION:blog -->
-<!-- END_SECTION:blog -->
+<br />
 
-</td></tr>
-
-<tr><td>
-
-### 🧠 Second Brain
-
+## 🧠 Second Brain
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -103,31 +88,16 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
+<br />
 
-
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
-### 🤾‍♂️ Funny Soul
-
+## 🤾‍♂️ Funny Soul
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
-<!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
-<!-- END_SECTION:douban -->
 
-</td></tr>
-
-<tr><td>
-<!-- START_SECTION:douban -->
-<!-- END_SECTION:douban -->
-</td></tr>
-</table>
+<br />
 
 
-
+---
 
 ![Metrics](https://metrics.lecoq.io/Judu233?template=classic&languages=1&stars=1&repositories=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai)
