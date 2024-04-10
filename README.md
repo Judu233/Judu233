@@ -94,7 +94,7 @@
 ## 🤾‍♂️ Funny Soul
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
+* <a href='https://book.douban.com/subject/35193035/' target='_blank'></a> 
 
 <br />
 
